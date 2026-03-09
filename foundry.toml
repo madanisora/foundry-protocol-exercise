@@ -1,0 +1,16 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+test = "test"
+solc = "0.8.20"
+
+# Show detailed test output
+verbosity = 2
+
+# Gas snapshots
+[profile.default.fuzz]
+runs = 256
+
+[profile.ci]
+fuzz = { runs = 1000 }
