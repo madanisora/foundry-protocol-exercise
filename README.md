@@ -117,4 +117,4 @@ forge test --gas-report
 - [ ] Implementasi price oracle (mock Chainlink)
 - [ ] Tambah ERC20 token sebagai collateral (bukan hanya ETH)
 - [ ] UUPS pattern (upgrade logic di implementation, bukan proxy)
-- [ ] Invariant testing: `totalDeposits >= totalBorrows` selalu true
+
