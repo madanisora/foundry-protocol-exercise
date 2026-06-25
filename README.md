@@ -116,5 +116,5 @@ forge test --gas-report
 - [ ] Tambah `ProxyAdmin` contract (pisah admin dari deployer)
 - [ ] Implementasi price oracle (mock Chainlink)
 - [ ] Tambah ERC20 token sebagai collateral (bukan hanya ETH)
-- [ ] UUPS pattern (upgrade logic di implementation, bukan proxy)
+
 
