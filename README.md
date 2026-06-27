@@ -111,7 +111,7 @@ forge test --gas-report
 
 ---
 
-## TODOs untuk Latihan Lanjutan
+
 
 - [ ] Tambah `ProxyAdmin` contract (pisah admin dari deployer)
 - [ ] Implementasi price oracle (mock Chainlink)
